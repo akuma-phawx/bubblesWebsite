@@ -1,4 +1,4 @@
-# Bubbles 🗨️
+# Bubbles
 ---
 
 :fish: :fish: An animated website with.... bubbles! (HTML, CSS) :fish::fish:
